@@ -1,4 +1,4 @@
-# Python-Edv-Project5-RFClassifier
+# Python-Edv-Project5-GradientBosstingClassifier
 Flag the junk property listings
 As the real estate becomes a scarce commodity in big cities of the world; renovating old
 properties for sale is becoming a thriving business. However, not every property becomes an
